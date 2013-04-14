@@ -10,6 +10,12 @@ LibCanvas javascript library prepared for using with Rails 3.1+
 
 LibCanvas github repo: https://github.com/theshock/libcanvas
 
+## Dependencies
+
+* [atomjs-rails](https://github.com/tanraya/atomjs-rails)
+
+All dependencies included by default.
+
 ## Installation
 
 First, put this line in your `Gemfile`:
